@@ -8,18 +8,21 @@
     color: rgb(250, 250, 113);
     clip-path: circle(7px);
     background: rgb(250, 250, 113);
+    top: -3px !important;
 }
 [aria-label="Maximize"]
 {
     color: rgb(95, 218, 95);
     clip-path: circle(7px);
     background: rgb(95, 218, 95);
+    top: -3px !important;
 }
 .winButtonClose__73489
 {
     color: rgb(230, 73, 73);
     clip-path: circle(7px);
     background: rgb(230, 73, 73);
+    top: -3px !important;
 }
 [aria-label="Minimize"]:hover
 {
