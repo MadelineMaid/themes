@@ -328,3 +328,7 @@
     background: hsla(268, 38%, 36%, 0.288) !important;
 }
 .button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {background-color: rgb(129, 90, 192);}
+.barButtonMain__0f5c6.barButtonBase__8fa46 {
+    scale: 1;
+    transform: rotateZ(0deg);
+}
