@@ -281,13 +281,14 @@
 	display: block;
 	position: relative;
     transform: translateY(1.5px);
-    filter: sepia(21%) saturate(609%) hue-rotate(211deg) brightness(102%) contrast(95%);
+    left: 3px;
+    top: -3px;
 	width: 55px;
 	height: 55px;
-	line-height: 32px;
+	line-height: px;
     opacity: 0.8;
 	transition: all 0.2s linear;
-	background: url('https://files.catbox.moe/fkbete.png') center / contain no-repeat;
+	background: url('https://media.discordapp.net/stickers/1039992459209490513.png') center / contain no-repeat;
 }
 [class^='tutorialContainer'] svg [class^="wrapper"]  > [class^="childWrapper"]:hover::after {
 	opacity: 1;
