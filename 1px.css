@@ -1,0 +1,8 @@
+/**
+* @author Madeline
+* @name 0.1px left
+* @description Turns out making everything slightly 0.1 px to the left breaks a lot. Enjoy!
+*/
+* {
+    left: 0.1px;
+}

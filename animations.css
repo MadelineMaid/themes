@@ -1,0 +1,58 @@
+/**
+* @author Madeline
+* @name Animations
+* @description adds some basic sliding animations to elements
+*/
+.container_b2ce9c {
+  width: 60px;
+  transition-duration: 0.8s;
+  transition: ease 0.8s;
+}
+.container_b2ce9c:hover {
+  width: 250px;
+}
+.cozy_f5c119.wrapper__09ecc {
+  right: 0px;
+  transition: ease 0.5s;
+}
+.cozy_f5c119.wrapper__09ecc:hover {
+  right: -10px;
+}
+.button_afdfd9 {
+  scale: 1;
+  transition: ease 0.5s;
+}
+.button_afdfd9:hover {
+  scale: 1.4;
+}
+.wrapper__3af0b {
+  scale: 1;
+  transition: ease-in-out 0.3s;
+}
+.wrapper__3af0b:hover {
+  scale: 1.1;
+  transform: rotateZ(-10deg);
+}
+[type="button"] {
+  scale: 1;
+  transition: ease-in-out 0.4s;
+}
+[type="button"]:hover {
+  scale: 1.2;
+  transform: rotateZ(-10deg);
+}
+.barButtonAlt__4b48f.barButtonBase__8fa46 {
+  scale: 1;
+  transition: none;
+  transform: none
+}
+.searchBarComponent__22760:hover {
+  scale: 1;
+  transition: none !important;
+  transform: none !important;
+}
+.barButtonMain__0f5c6.barButtonBase__8fa46:hover {
+  scale: 1;
+  transition: none !important;
+  transform: none !important;
+}

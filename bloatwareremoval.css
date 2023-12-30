@@ -1,0 +1,14 @@
+/**
+* @author Madeline
+* @name Bloatware Removal
+* @description Removes useless discord features.
+*/
+.avatarDecoration__14b3c {display: none;}
+.avatarDecoration_ae35e3 {display: none;}
+.profileEffects_fd33f6 {display: none;}
+.profilePanel__12596 {display: none;}
+[aria-label="Show User Profile"] {display: none;}
+[aria-label="Hide User Profile"] {display: none;}
+.welcomeCTA__927ef {display: none;}
+.roleIcon__59ca1.roleIcon_d491aa.clickable__08c77 {display: none !important;}
+.recentsIcon__3c4cf {display: none}

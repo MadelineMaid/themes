@@ -1,0 +1,23 @@
+/**
+* @author Madeline
+* @name Stylized User Panel
+* @description Centers the User Panel while blurring the background, enjoy!
+*/
+.accountProfilePopoutWrapper_af829a {left: 708px; top: 50px; opacity: 80%;}
+.userPopoutOuter_d739b2.userProfileOuter__46bb7.userProfileOuterUnthemed__48723.profileColors__2e2f0{opacity: 80% !important;}
+.profileColors__2e2f0{opacity: 85%;}
+.layerContainer_d5a653:has([class^="userPopoutOuter_"])
+{ backdrop-filter: blur(10px) !important; }
+.accountProfilePopoutWrapper_af829a {
+    animation: 0.5s ease-out slide;
+}
+
+@keyframes slide {
+    from {
+        transform: translate(0, -1600px);
+    }
+
+    to {
+        transform: translate(0, 0px);
+    }
+}
