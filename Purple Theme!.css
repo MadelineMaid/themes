@@ -41,6 +41,9 @@
     --guild-boosting-purple: violet;
     --red-500: rgb(107, 69, 183);
     --primary-800: rgb(27, 21, 39);
+    --green-360: rgb(202, 146, 255);
+    --primary-400: rgb(202, 146, 255);
+    --yellow-300: rebeccapurple;
 }
 
 .vc-addon-card:hover {
@@ -385,3 +388,119 @@
     scale: 1;
     transform: rotateZ(0deg);
 }
+.button__1f658.button_afdfd9.lookInverted_ee4261.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+    scale: 1;
+    transform: rotateZ(0deg);
+}
+.toolsButton_cea0b4.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorWhite__43488.sizeSmall__71a98.grow__4c8a4 {
+    scale: 1;
+    transform: rotateZ(0deg);
+}
+.tierCardButton__24d35.button_afdfd9.lookFilled__19298.colorWhite__43488.sizeMedium_c6fa98.grow__4c8a4 {
+    scale: 1;
+    transform: rotateZ(0deg);
+}
+.managePlanButton__581cc.button_afdfd9.lookOutlined__46d54.colorWhite__43488.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1
+}
+.giftCardButton__12614.seasonalColor__0b327.button_afdfd9.lookOutlined__46d54.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.lookOutlined__46d54.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.removeButton__8ecd1.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.vc-m-left-16.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeXlarge__53ea0.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button__890f5.button_afdfd9.lookFilled__19298.buttonColor__6f6b0.sizeSmall__71a98.fullWidth__7c3e8.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.ctaButton__7d20c.button_afdfd9.lookInverted_ee4261.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.colorRed_d6b062 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.debugButton__6e8bc.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.viewChannelButton_ee7ff6.button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.inviteRowButton__52da0.button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {
+    transform: rotateZ(0deg) !important;
+    scale: 1 !important;
+}
+.divider__8cf56.hasContent__8519e.divider_b9338f.hasContent_fea365 {
+    background-color: rgb(78, 44, 97);
+}
+.button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {
+    scale: 1;
+    transform: rotateZ(0deg);
+}
+[data-text-variant="text-md/normal"] {color: var(--interactive-active) !important;}
+.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMin__94642.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.lookFilled__19298.colorBrandNew_fd170a.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+    background-color: var(--interactive-muted);
+}
+.micTestButton__2694a.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeSmall__71a98 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+[d^="M23 12a11 11 0 1 1-22 0 11 11 0 0 1 22 0ZM7.74 9.3A2 2 0 0 1 9."] {fill: var(--channels-default);}
+[d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"] {fill: var(--channels-default);}
+[d="M13 5a1 1 0 1 0-2 0v6H5a1 1 0 1 0 0 2h6v6a1 1 0 1 0 2 0v-6h6a1 1 0 1 0 0-2h-6V5Z"] {
+    fill: var(--channels-default);
+}
+.circleIconButton_d8df29.selected__5250e {
+    background: var(--interactive-muted);
+}
+.emptyChannelIcon__1a1ba.emptyChannelIconComponent_b97aed {
+    background: var(--scrollbar-auto-track);
+}
+.messagelogger-deleted {
+    background-color: #482655 !important;
+}
+.messagelogger-edited {
+    filter: opacity !important;
+}
+.giftButton_bb2551.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeIcon_dce153.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.giftCardButton__6b1bb.button_afdfd9.lookOutlined__46d54.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.cover__590cf {filter: opacity(0%);}
+.customButton_c0cc97 {background-color: #2f2545; cursor: pointer;}
