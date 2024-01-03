@@ -418,6 +418,17 @@
         scale: 1;
         transform: rotateZ(0deg);
     }
+    .button_d2da8e.button_afdfd9.lookFilled__19298, .button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeMedium_c6fa98, .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .component__43381:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    [aria-label="Select emoji"]:hover {
+        scale: 1.1;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
