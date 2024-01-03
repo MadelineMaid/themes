@@ -558,3 +558,15 @@
 .heading-xxl-extrabold__8effc.defaultColor__87d87.heading__41621, .text-lg-normal_e68077.subtitle_c3170a.fullWidth__2b90a.leftAlignSubtitle_dd3314, .defaultColor__77578.heading-xxl-extrabold__8effc.defaultColor__87d87.perksTitle__110ba {
     color: var(--interactive-active) !important;
 }
+.defaultColor__77578.heading-md-semibold__574c7.defaultColor__87d87.title__9e2b0, .topic__16ae3.expandable_ddf73d {
+    color: var(--interactive-active) !important;
+}
+.icon__4cb88 {
+    color: var(--interactive-active) !important;
+}
+.defaultColor__77578.heading-lg-semibold_a200cd.defaultColor__87d87 {
+    color: var(--interactive-normal);
+}
+.lineClamp1__92431.text-md-semibold__4cb23.name_c08dbc {
+    color: var(--interactive-active);
+}
