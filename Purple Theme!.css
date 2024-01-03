@@ -555,3 +555,6 @@
 .divider_a2339a.marginTop20_d88ee7 {padding-top: 44px; visibility: hidden;}
 .cover__590cf {filter: opacity(0%);}
 .customButton_c0cc97 {background-color: #2f2545; cursor: pointer;}
+.heading-xxl-extrabold__8effc.defaultColor__87d87.heading__41621, .text-lg-normal_e68077.subtitle_c3170a.fullWidth__2b90a.leftAlignSubtitle_dd3314, .defaultColor__77578.heading-xxl-extrabold__8effc.defaultColor__87d87.perksTitle__110ba {
+    color: var(--interactive-active) !important;
+}
