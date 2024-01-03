@@ -528,8 +528,6 @@
 }
 .header_a6f6dd, .lightOverlay__544ba, .darkOverlay__477f1 {display: none;}
 .themeTitle__23d07 {visibility: hidden;}
-.themeTitle__23d07:before {content: "I had to eat the other themes since they don't work with this one. They were yummy though! -Madeline"; visibility: visible;}
+.themeTitle__23d07:before {content: "I had to eat the other themes since they don't work with this one. They were yummy though! -Madeline"; visibility: visible; color: var(--header-primary);}
 .presets__14d08 {top: 378px; left: 64px; gap: 0px;position: absolute;}
 .divider_a2339a.marginTop20_d88ee7 {padding-top: 44px; visibility: hidden;}
-.defaultColor__77578.text-md-medium__5151a.defaultColor__87d87, .defaultColor__77578.text-sm-normal_e612c7.defaultColor__87d87 {color: var(--header-secondary);}
-.nitroWheel__551a1.premiumIcon_c6563c {color: var(--header-secondary);}
