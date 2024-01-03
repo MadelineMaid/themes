@@ -16,8 +16,8 @@
     --background-mentioned: rgb(63, 40, 85);
     --text-muted: rgb(128, 81, 172);
     --header-primary: rgb(128, 81, 172);
-    --brand-experiment: rgb(128, 81, 172);
-    --brand-experiment-560: rgb(128, 81, 172);
+    --brand-experiment: var(--interactive-muted);
+    --brand-experiment-560: rgb(88, 56, 151);
     --primary-300: rgb(128, 81, 172);
     --primary-100: rgb(138, 81, 172);
     --bg-overlay-2: rgb(53, 42, 78);
@@ -44,6 +44,11 @@
     --green-360: rgb(202, 146, 255);
     --primary-400: rgb(202, 146, 255);
     --yellow-300: rebeccapurple;
+    --info-warning-background: rgb(59, 32, 87);
+    --button-outline-danger-border: var(--interactive-muted);
+    --button-outline-danger-background-hover: var(--interactive-muted);
+    --button-outline-danger-border-hover: var(--interactive-muted);
+    --button-danger-background: var(--interactive-muted);
 }
 
 .vc-addon-card:hover {
@@ -504,3 +509,27 @@
 }
 .cover__590cf {filter: opacity(0%);}
 .customButton_c0cc97 {background-color: #2f2545; cursor: pointer;}
+.button_afdfd9.lookLink__93965 {
+    scale: 1;
+    transform: rotateZ(0deg);
+} 
+.disableButton__61514.button_afdfd9.lookFilled__19298.colorRed_d6b062.sizeSmall__71a98.grow__4c8a4:hover {
+    background-color: var(--brand-experiment-560);
+}
+.defaultThemeSelection__5c688.lightIcon__08a51 {
+    display: none;
+}
+.basicThemeSelectors_f6c054 {
+    margin-left: -84px;
+}
+[aria-label="Sync with computer"] {display: none;}
+[aria-label="Dark"] {
+    background-color: #352a4e;
+}
+.header_a6f6dd, .lightOverlay__544ba, .darkOverlay__477f1 {display: none;}
+.themeTitle__23d07 {visibility: hidden;}
+.themeTitle__23d07:before {content: "I had to eat the other themes since they don't work with this one. They were yummy though! -Madeline"; visibility: visible;}
+.presets__14d08 {top: 378px; left: 64px; gap: 0px;position: absolute;}
+.divider_a2339a.marginTop20_d88ee7 {padding-top: 44px; visibility: hidden;}
+.defaultColor__77578.text-md-medium__5151a.defaultColor__87d87, .defaultColor__77578.text-sm-normal_e612c7.defaultColor__87d87 {color: var(--header-secondary);}
+.nitroWheel__551a1.premiumIcon_c6563c {color: var(--header-secondary);}
