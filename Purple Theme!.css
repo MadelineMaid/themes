@@ -3,6 +3,11 @@
 * @author Madeline
 * @description Makes discord a nice and cool purple. Enjoy!
 */
+
+/* This changes "X" logo to the famous twitter we all know and love. Remove if you want. */
+[aria-label="X"] {content: url(https://discord.com/assets/57a3fe2c0e62e98937fd.svg);}
+[src="/assets/f47485602365c946fa52.svg"] {content: url(https://discord.com/assets/57a3fe2c0e62e98937fd.svg);}
+/* End of X Logo Change */
 .theme-dark {
     --text-normal: rgb(230, 210, 248);
     --text-link: rgb(161, 103, 214);
