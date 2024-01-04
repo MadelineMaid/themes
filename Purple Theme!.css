@@ -429,6 +429,22 @@
     [aria-label="Select emoji"]:hover {
         scale: 1.1;
     }
+    .lookFilled__19298.colorBrand_b2253e {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.closeButton__81784 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .tagsButton_e96762.button_afdfd9.lookFilled__19298.sizeMin__94642.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .sortDropdown_ec3016.button_afdfd9.lookFilled__19298.sizeMin__94642.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
@@ -556,7 +572,7 @@
 .cover__590cf {filter: opacity(0%);}
 .customButton_c0cc97 {background-color: #2f2545; cursor: pointer;}
 .heading-xxl-extrabold__8effc.defaultColor__87d87.heading__41621, .text-lg-normal_e68077.subtitle_c3170a.fullWidth__2b90a.leftAlignSubtitle_dd3314, .defaultColor__77578.heading-xxl-extrabold__8effc.defaultColor__87d87.perksTitle__110ba {
-    color: var(--interactive-active) !important;
+    color: var(--interactive-active) !important; text-shadow: 0 0 4px var(--interactive-muted);
 }
 .defaultColor__77578.heading-md-semibold__574c7.defaultColor__87d87.title__9e2b0, .topic__16ae3.expandable_ddf73d {
     color: var(--interactive-active) !important;
@@ -569,4 +585,25 @@
 }
 .lineClamp1__92431.text-md-semibold__4cb23.name_c08dbc {
     color: var(--interactive-active);
+}
+.container_b181b6 {
+    background-color: #312747;
+}
+.matchingPostsRow__510be {
+    background-color: var(--background-primary);
+}
+[d^="M12 23a11 11 0 1 0 0-22 11 11 0 0 0 0 22Zm1.44-15.94L13.06 14a1.06"] {
+    fill: var(--interactive-normal);
+}
+.display-lg__20b93.defaultColor__87d87 {
+    color: var(--interactive-active) !important; text-shadow: 0 0 4px rebeccapurple;
+}
+.defaultColor__77578.heading-xl-extrabold__6407c.defaultColor__87d87.cardHeading__2b53d, .defaultColor__77578.heading-lg-extrabold_c29e62.defaultColor__87d87.perkCardHeading__3da02, .defaultColor__77578.heading-lg-extrabold_c29e62.defaultColor__87d87.heading_b7f3fe {
+    color: var(--interactive-active); text-shadow: 0 0 4px rebeccapurple;
+}
+[type="button"] {
+    border-radius: 20px;
+}
+.button_d584a2.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+    background-color: #533097;
 }

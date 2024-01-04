@@ -12,21 +12,21 @@
   width: 250px;
 }
 .cozy_f5c119.wrapper__09ecc {
-  right: 0px;
-  transition: ease 0.5s;
-}
-.cozy_f5c119.wrapper__09ecc:hover {
-  right: -10px;
+    right: 0px;
+    transition: ease 0.5s;
+  }
+  .cozy_f5c119.wrapper__09ecc:hover {
+      right: -10px;
 }
 .button_afdfd9 {
   scale: 1;
   transition: ease 0.5s;
 }
 .button_afdfd9:hover {
-  scale: 1.4;
-}
+    scale: 1.4;
+  }
 .wrapper__3af0b {
-  scale: 1;
+    scale: 1;
   transition: ease-in-out 0.3s;
 }
 .wrapper__3af0b:hover {
@@ -51,8 +51,183 @@
   transition: none !important;
   transform: none !important;
 }
-.barButtonMain__0f5c6.barButtonBase__8fa46:hover {
+.giftButton_bb2551.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeIcon_dce153.grow__4c8a4 {
+  transform: rotateZ(0deg);
   scale: 1;
-  transition: none !important;
-  transform: none !important;
 }
+.giftCardButton__6b1bb.button_afdfd9.lookOutlined__46d54.sizeMedium_c6fa98.grow__4c8a4 {
+  transform: rotateZ(0deg);
+  scale: 1;
+}
+.button_afdfd9.lookLink__93965 {
+  scale: 1;
+  transform: rotateZ(0deg);
+}
+  .button__9491f.button_afdfd9.lookFilled__19298.buttonColor__01bf8.buttonSize_ee7672.grow__4c8a4:hover {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button_afdfd9.lookBlank__7ca0a.colorTransparent__4c280.sizeIcon_dce153.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookOutlined__46d54.colorRed_d6b062.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .fieldButton_a93f59.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .fieldButton_a93f59.removeButton__731bd.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorLink_b651e5.sizeMin__94642.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .disableButton__61514.button_afdfd9.lookFilled__19298.colorRed_d6b062.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorTransparent__4c280.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.colorYellow_a62893 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .primaryButton__78ebb.sizeXlarge__53ea0 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .secondaryButton__68e05.sizeXlarge__53ea0 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button__1f658.button_afdfd9.lookInverted_ee4261.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .toolsButton_cea0b4.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorWhite__43488.sizeSmall__71a98.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .tierCardButton__24d35.button_afdfd9.lookFilled__19298.colorWhite__43488.sizeMedium_c6fa98.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .managePlanButton__581cc.button_afdfd9.lookOutlined__46d54.colorWhite__43488.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1
+  }
+  .giftCardButton__12614.seasonalColor__0b327.button_afdfd9.lookOutlined__46d54.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookOutlined__46d54.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .removeButton__8ecd1.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .vc-m-left-16.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeXlarge__53ea0.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button__890f5.button_afdfd9.lookFilled__19298.buttonColor__6f6b0.sizeSmall__71a98.fullWidth__7c3e8.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .ctaButton__7d20c.button_afdfd9.lookInverted_ee4261.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.colorRed_d6b062 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .debugButton__6e8bc.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .viewChannelButton_ee7ff6.button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  }
+  .inviteRowButton__52da0.button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {
+      transform: rotateZ(0deg) !important;
+      scale: 1 !important;
+  }
+  .barButtonMain__0f5c6.barButtonBase__8fa46 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .micTestButton__2694a.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeSmall__71a98 {
+      transform: rotateZ(0deg);
+      scale: 1;
+  [data-text-variant="text-md/normal"] {color: var(--interactive-active) !important;}
+  }
+  .button_d2da8e.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeMedium_c6fa98 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button_d2da8e.button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeMedium_c6fa98 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button_d2da8e.button_afdfd9.lookFilled__19298, .button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeMedium_c6fa98, .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .component__43381:hover {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  [aria-label="Select emoji"]:hover {
+      scale: 1.1;
+  }
+  .lookFilled__19298.colorBrand_b2253e {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .button_afdfd9.closeButton__81784 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .tagsButton_e96762.button_afdfd9.lookFilled__19298.sizeMin__94642.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
+  .sortDropdown_ec3016.button_afdfd9.lookFilled__19298.sizeMin__94642.grow__4c8a4 {
+      scale: 1;
+      transform: rotateZ(0deg);
+  }
