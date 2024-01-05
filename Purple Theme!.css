@@ -643,3 +643,4 @@
 [src="/assets/7231645d01e0b14f58cc.svg"] {filter: hue-rotate(115deg) contrast(1.5) !important;}
 [src="/assets/cc912bf56af0fd3bc301.svg"] {filter: hue-rotate(-120deg) brightness(100%);}
 [src="/assets/d8deaf4c4cbec4b8f9d6.svg"] {filter: hue-rotate(-86deg);}
+::selection {background: rgba(153, 0, 255, 0.075); color: var(--interactive-muted);text-shadow: 0 0 4px var(--status-danger);}
