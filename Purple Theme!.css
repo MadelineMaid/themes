@@ -457,6 +457,10 @@
         scale: 1;
         transform: rotateZ(0deg);
     }
+    .button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeIcon_dce153.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
@@ -619,3 +623,4 @@
 .button_d584a2.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
     background-color: #533097;
 }
+.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMin__94642.grow__4c8a4 {border-radius: 4px;}
