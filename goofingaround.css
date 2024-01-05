@@ -3,23 +3,3 @@
 * @name Goof
 * @description you shouldnt be here. go check out my other themes, this is where i fuck around
 */
-[class^='tutorialContainer'] svg [class^="wrapper"] > [class^="childWrapper"] img,
-[class^='tutorialContainer'] svg [class^="wrapper"] > [class^="childWrapper"] svg {
-	display: none;
-}
-[class^='tutorialContainer'] svg [class^="wrapper"] > [class^="childWrapper"]::after {
-    content: ' ';
-	display: block;
-	position: relative;
-    transform: translateY(1.5px);
-    border-radius: 100%;
-    /* change this for visibility */ opacity: 100%;
-	width: 55px;
-	height: 55px;
-	line-height: px;
-	transition: all 0.2s linear;
-	/* change this to an >>IMAGE ADDRESS<< to change the dm icon */ background: url('https://i.etsystatic.com/5145657/r/il/42d5a4/4440629725/il_570xN.4440629725_p3t0.jpg') center / contain no-repeat;
-}
-[class^='tutorialContainer'] svg [class^="wrapper"]  > [class^="childWrapper"]:hover::after {
-    opacity: 1;
-}
