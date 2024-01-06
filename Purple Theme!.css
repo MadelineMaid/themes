@@ -493,6 +493,10 @@
         scale:1;
         transform:rotateZ(0deg);
     }
+    .close__1080c.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.grow__4c8a4 {
+        scale:1;
+        transform:rotateZ(0deg);
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
@@ -660,3 +664,4 @@
 [src="/assets/cc912bf56af0fd3bc301.svg"] {filter: hue-rotate(-120deg) brightness(100%);}
 [src="/assets/d8deaf4c4cbec4b8f9d6.svg"] {filter: hue-rotate(-86deg);}
 ::selection {background: rgba(153, 0, 255, 0.075); color: var(--interactive-muted);text-shadow: 0 0 4px var(--status-danger);}
+.role__631a3 {border-radius:20px;}
