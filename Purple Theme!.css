@@ -665,3 +665,6 @@
 [src="/assets/d8deaf4c4cbec4b8f9d6.svg"] {filter: hue-rotate(-86deg);}
 ::selection {background: rgba(153, 0, 255, 0.075); color: var(--interactive-muted);text-shadow: 0 0 4px var(--status-danger);}
 .role__631a3 {border-radius:20px;}
+.vc-notification-root {border-radius:20px;}
+.vc-text-selectable.root_a28985.medium__408de.fullscreenOnMobile__96797.rootWithShadow__073a7 {border-radius: 20px;}
+.flex_f5fbb7.horizontalReverse_dc209c.justifyStart__42744.alignStretch_e239ef.noWrap__5c413.footer__89240.footerSeparator__57d95 {border-radius: 0 0 20px 20px;}
