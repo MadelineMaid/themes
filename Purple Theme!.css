@@ -485,6 +485,14 @@
         scale: 1;
         transform: rotateZ(0deg);
     }
+    [aria-label="Add this post to your channel list and receive notifications about it."]:hover {
+        scale:1;
+        transform: rotateZ(0deg);
+    }
+    [aria-label="Copy Link"]:hover {
+        scale:1;
+        transform:rotateZ(0deg);
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
