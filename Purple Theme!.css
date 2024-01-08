@@ -668,3 +668,6 @@
 .vc-notification-root {border-radius:20px;}
 .vc-text-selectable.root_a28985.medium__408de.fullscreenOnMobile__96797.rootWithShadow__073a7 {border-radius: 20px;}
 .flex_f5fbb7.horizontalReverse_dc209c.justifyStart__42744.alignStretch_e239ef.noWrap__5c413.footer__89240.footerSeparator__57d95 {border-radius: 0 0 20px 20px;}
+.markup_a7e664 h1, .markup_a7e664 h2, .markup_a7e664 h3, .markup_a7e664 h4, .markup_a7e664 h5, .markup_a7e664 h6 {
+    color: var(--text-normal);
+}
