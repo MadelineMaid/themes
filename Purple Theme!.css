@@ -671,3 +671,6 @@
 .markup_a7e664 h1, .markup_a7e664 h2, .markup_a7e664 h3, .markup_a7e664 h4, .markup_a7e664 h5, .markup_a7e664 h6 {
     color: var(--text-normal);
 }
+.homeContainer_a4aa0a {
+    background-color: #312747;
+}
