@@ -1,0 +1,14 @@
+/**
+* @author Madeline#3336
+* @description get shiggy with it
+*/
+
+img {content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless) !important;}
+button {content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless) !important;}
+video {content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless);}
+
+
+.theme-dark {
+    --channel-icon:
+}
+

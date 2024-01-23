@@ -1,0 +1,19 @@
+/**
+* @author Madeline#3336
+* @description Hide your embarrasing tabs! Unblurs on hover
+* @name Content Blur
+*/
+[aria-label="Servers"]{filter: blur(6px); transition: ease-in-out 0.3s;}
+[aria-label="Servers"]:hover {filter: blur(0px);}
+[aria-label="Channels"] {filter: blur(6px); transition: ease-in 0.3s;}
+[aria-label="Channels"]:hover{filter: blur(0px);}
+[aria-label="Members"] {filter: blur(6px);transition: ease-in-out 0.3s;}
+[aria-label="Members"]:hover {filter: blur(0px);}
+.messagesWrapper_ea2b0b {filter: blur(6px);transition: ease-in-out 0.3s;}
+.messagesWrapper_ea2b0b:hover {filter: blur(0px);}
+.container__7c79d.clickable__2d589.hasBanner_e78601.bannerVisible__191f6 {filter: blur(6px); transition: ease-in-out 0.3s;}
+.container__7c79d.clickable__2d589.hasBanner_e78601.bannerVisible__191f6:hover {filter: blur(0px);}
+.title__9e2b0 {filter: blur(4px); transition: ease-in-out 0.3s;}
+.title__9e2b0:hover {filter: blur(0px);}
+.topic__16ae3.expandable_ddf73d {filter: blur(4px); transition: ease-in-out 0.3s;}
+.topic__16ae3.expandable_ddf73d:hover {filter: blur(0px);}

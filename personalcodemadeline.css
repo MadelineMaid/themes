@@ -1,0 +1,25 @@
+/**
+* @author Madeline#3336
+* @description this is just the personal code i use, themeattributes plugin required
+* @name personal code madeline
+*/
+/*start of unread bar*/
+.text-xs-semibold_a3a2b4.barText__1a44f {font-size: 0px;}
+.text-xs-semibold_a3a2b4.barText__1a44f:before {font-size:12px; content: /*change to whatever*/ "new shit that you don't care about!"; position: absolute; top: 4px;}
+.bar__004d9 {width: 5.3em;height:3.9em} /* adjust if needed for bar width, incase the text goes off the bar*/
+/* start of text selection */
+::selection {background-color: rgba(102, 51, 153, 0.5);color: white;}
+/* people i hate */
+[data-author-id="1146238152693002260"] {display: none;}
+/* people i love */
+[data-author-id="975944497328443423"] .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1 {font-size: 0;}
+[data-author-id="975944497328443423"] .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1::before {font-size: 1rem;content: "system protector"}
+/* remove embed links to blend in more in chat */
+[href*="catbox"], [href*="tenor"] {
+    display: none;
+}
+/* twitter verified */
+:root {
+    --twitter-verified: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/15px-Twitter_Verified_Badge.svg.png);
+}
+.username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1:after {content: var(--twitter-verified);filter:hue-rotate(70deg);display: flexbox; padding-left: 5px;}

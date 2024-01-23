@@ -1,0 +1,11 @@
+/**
+* @name Comic Sans Hell
+* @author Madeline#3336
+* @description er er err er er er er
+*/
+:root {--font-primary: 'comic sans ms';}
+:root {--font-display: 'comic sans ms';}
+:root {--font-headline: 'comic sans ms';}
+:root {--font-code: 'comic sams ms';}
+.inline {font-family: 'comic sans ms' !important;}
+/* is that sans the skeleton */

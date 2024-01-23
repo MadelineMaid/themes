@@ -1,0 +1,328 @@
+/**
+* @author Madeline#3336
+* @name Animations
+* @description adds some basic sliding animations to elements
+*/
+.container_b2ce9c {
+    width: 60px;
+    transition-duration: 0.8s;
+    transition: ease 0.8s;
+}
+.container_b2ce9c:hover {
+    width: 250px;
+}
+  .cozy_f5c119.wrapper__09ecc {
+      right: 0px;
+      transition: ease 0.5s;
+    }
+    .cozy_f5c119.wrapper__09ecc:hover {
+        right: -10px;
+  }
+  .button_afdfd9 {
+    scale: 1;
+    transition: ease 0.5s;
+}
+  .button_afdfd9:hover {
+      scale: 1.4;
+    }
+  .wrapper__3af0b {
+      scale: 1;
+    transition: ease-in-out 0.3s;
+}
+.wrapper__3af0b:hover {
+    scale: 1.1;
+    transform: rotateZ(-10deg);
+  }
+  [type="button"] {
+    scale: 1;
+    transition: ease-in-out 0.4s;
+}
+[type="button"]:hover {
+    scale: 1.2;
+    transform: rotateZ(-10deg);
+}
+.barButtonAlt__4b48f.barButtonBase__8fa46 {
+    scale: 1;
+    transition: none;
+    transform: none
+}
+.searchBarComponent__22760:hover {
+    scale: 1;
+    transition: none !important;
+    transform: none !important;
+}
+.giftButton_bb2551.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeIcon_dce153.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.giftCardButton__6b1bb.button_afdfd9.lookOutlined__46d54.sizeMedium_c6fa98.grow__4c8a4 {
+    transform: rotateZ(0deg);
+    scale: 1;
+}
+.button_afdfd9.lookLink__93965 {
+    scale: 1;
+    transform: rotateZ(0deg);
+}
+    .button__9491f.button_afdfd9.lookFilled__19298.buttonColor__01bf8.buttonSize_ee7672.grow__4c8a4:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.lookBlank__7ca0a.colorTransparent__4c280.sizeIcon_dce153.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookOutlined__46d54.colorRed_d6b062.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .fieldButton_a93f59.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .fieldButton_a93f59.removeButton__731bd.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorLink_b651e5.sizeMin__94642.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .disableButton__61514.button_afdfd9.lookFilled__19298.colorRed_d6b062.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorTransparent__4c280.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.colorYellow_a62893 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .primaryButton__78ebb.sizeXlarge__53ea0 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .secondaryButton__68e05.sizeXlarge__53ea0 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button__1f658.button_afdfd9.lookInverted_ee4261.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .toolsButton_cea0b4.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorWhite__43488.sizeSmall__71a98.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .tierCardButton__24d35.button_afdfd9.lookFilled__19298.colorWhite__43488.sizeMedium_c6fa98.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .managePlanButton__581cc.button_afdfd9.lookOutlined__46d54.colorWhite__43488.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1
+    }
+    .giftCardButton__12614.seasonalColor__0b327.button_afdfd9.lookOutlined__46d54.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookOutlined__46d54.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .removeButton__8ecd1.button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .vc-m-left-16.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeXlarge__53ea0.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button__890f5.button_afdfd9.lookFilled__19298.buttonColor__6f6b0.sizeSmall__71a98.fullWidth__7c3e8.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .ctaButton__7d20c.button_afdfd9.lookInverted_ee4261.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.colorRed_d6b062 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .debugButton__6e8bc.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .button_afdfd9.lookLink__93965.lowSaturationUnderline__95e71.colorBrand_b2253e.sizeMedium_c6fa98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .viewChannelButton_ee7ff6.button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .inviteRowButton__52da0.button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {
+        transform: rotateZ(0deg) !important;
+        scale: 1 !important;
+    }
+    .barButtonMain__0f5c6.barButtonBase__8fa46 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeSmall__71a98.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .micTestButton__2694a.button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeSmall__71a98 {
+        transform: rotateZ(0deg);
+        scale: 1;
+    [data-text-variant="text-md/normal"] {color: var(--interactive-active) !important;}
+    }
+    .button_d2da8e.button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeMedium_c6fa98 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_d2da8e.button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeMedium_c6fa98 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_d2da8e.button_afdfd9.lookFilled__19298, .button_afdfd9.lookOutlined__46d54.colorPrimary__6ed40.sizeMedium_c6fa98, .button_afdfd9.lookFilled__19298.colorBrand_b2253e.sizeMedium_c6fa98 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .component__43381:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    [aria-label="Select emoji"]:hover {
+        scale: 1.1;
+    }
+    .lookFilled__19298.colorBrand_b2253e {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.closeButton__81784 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .tagsButton_e96762.button_afdfd9.lookFilled__19298.sizeMin__94642.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .sortDropdown_ec3016.button_afdfd9.lookFilled__19298.sizeMin__94642.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    [id="gif-picker-tab"]:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    [id="sticker-picker-tab"]:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    [id="emoji-picker-tab"]:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeIcon_dce153.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .endButton__45620.pageButton_bcd673 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .button_afdfd9.lookFilled__19298.colorPrimary__6ed40.sizeSmall__71a98.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .videoButton__1a553:hover, .volumeButton__3a6bf:hover {
+        scale:1;
+        transform: rotateZ(0deg);
+    }
+    .action_e4d3b9.button_afdfd9 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .showMoreButton__504d9.button_afdfd9 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    } 
+    .prevButtonContainer__7d008.arrowContainer__94160.navPrev_d8d242.nav_f39c29.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.grow__4c8a4, .nextButtonContainer_b44f58.arrowContainer__94160.navNext_ec1363.nav_f39c29.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.grow__4c8a4 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    [aria-label="Add this post to your channel list and receive notifications about it."]:hover {
+        scale:1;
+        transform: rotateZ(0deg);
+    }
+    [aria-label="Copy Link"]:hover {
+        scale:1;
+        transform:rotateZ(0deg);
+    }
+    .close__1080c.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.grow__4c8a4 {
+        scale:1;
+        transform:rotateZ(0deg);
+    }
+    .guildBoostCta__4ede9.guildBoostCtaSecondary_d4dfaa {
+        scale:1;
+        transform:rotateZ(0deg);
+    } 
+    .shinyButton_fc8363.guildBoostCtaBoost_d1aa53   {
+        scale:1;
+        transform:rotateZ(0deg);
+    }
+    .giftCardButton__12614.giftCardButtonColor__59b3f.button_afdfd9 {
+        scale:1;
+        transform:rotateZ(0deg)
+    }
+    .collapseBtn_f82249.button_afdfd9 {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
+    .vc-rdb-review:hover {
+        right: 0px !important;
+    }
+    [href^="/channels"], .typeVoice_f4ba92, .member_aa4760 {
+        transition: ease 0.2s;
+    }
+      [href^="/channels"]:hover {
+        margin-left: 5px;
+    }
+      .iconItem__8e3b8:has(.actionIcon_d679b5) {
+        display: none !important;
+    }
+      .typeVoice_f4ba92:hover {
+        margin-left: 15px;
+    }
+      .member_aa4760:hover {
+        margin-left: 12px;
+    }
+      .item__48dda.themed_b957e8 {
+        transition: ease 0.2s;
+    }
+      .item__48dda.themed_b957e8:hover {
+        margin-left: 5px;
+    } 
+      .tabBarItem_b56b35:hover {
+        margin-left: 0px !important;
+    }

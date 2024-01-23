@@ -1,0 +1,47 @@
+/**
+* @author Madeline#3336
+* @name Rule34
+* @description mmmf women
+*/
+.theme-light {
+    --background-primary: #aae5a4;
+    --background-secondary: #95c98f;
+    --background-secondary-alt: #62865e;
+    --background-tertiary: #62865e;
+    --text-normal: #62865e;
+    --text-muted: black;
+    --text-primary: black;
+    --text-interactive: black;
+    --text-brand: black;
+    --text-link: black;
+    --text-secondary: black;
+    --text-warning: black;
+    --text-danger: black;
+    --header-primary: #415a3e;
+    --header-secondary: #293827;
+    --interactive-hover: black;
+    --interactive-active: #293827;
+    --interactive-normal: #293827;
+    --interactive-muted: #415a3e;
+    --header-muted: #415a3e;
+    --background-floating: #415a3e;
+    --background-message-hover: #99cf91;
+    --background-mentioned: #99cf91;
+    --background-mentioned-hover: #82a77d;
+    --mention-background: #82a77d;
+    --mention-foreground: var(--text-normal);
+    --channel-icon: #61855e;
+    --bg-overlay-3: #82a77d;
+    --channels-default: #263a24;
+    --bg-overlay-selected: #4b6149;
+    --button-secondary-background: #4b6149;
+    --button-secondary-background-hover: #1c251c;
+    --brand-experiment-560: #1c251c;
+    --brand-experiment-360: #080a08;
+    --brand-experiment: #82c478;
+}
+.wordmarkWindows__05c46.wordmark__0d178 {color: #1c251c;}
+.inputDefault__80165.input_d266e7 {background-color: var(--background-secondary-alt);}
+.select__0eb48.inputDefault__0d65a.input__770f1.lookFilled__3dba3 {background: var(--background-secondary-alt);}
+.vc-addon-card {background-color: var(--bg-overlay-selected);}
+.vc-addon-card:hover {background-color: var(--bg-overlay-selected);}

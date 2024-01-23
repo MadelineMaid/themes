@@ -1,0 +1,46 @@
+/**
+* @author Madeline#3336
+* @name MacOS Titlebar Buttons
+* @description Makes the titlebar buttons similar to MacOS.
+*/
+[aria-label="Minimize"]
+{
+    color: rgb(250, 250, 113);
+    clip-path: circle(7px);
+    background: rgb(250, 250, 113);
+    top: -3px !important;
+}
+[aria-label="Maximize"]
+{
+    color: rgb(95, 218, 95);
+    clip-path: circle(7px);
+    background: rgb(95, 218, 95);
+    top: -3px !important;
+}
+.winButtonClose__73489
+{
+    color: rgb(230, 73, 73);
+    clip-path: circle(7px);
+    background: rgb(230, 73, 73);
+    top: -3px !important;
+}
+[aria-label="Minimize"]:hover
+{
+    color: yellow;
+    clip-path: circle(7px);
+    background: yellow;
+}
+[aria-label="Maximize"]:hover
+{
+    color: lime;
+    clip-path: circle(7px);
+    background: lime;
+}
+.winButtonClose__73489:hover
+{
+    color: red;
+    clip-path: circle(7px);
+    background: red;
+}
+.wordmarkWindows__05c46 {left: 1842px;}
+.winButton__88672 {right: 1856.5px; width: 18px; top: -1.5px}

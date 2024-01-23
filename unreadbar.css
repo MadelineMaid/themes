@@ -1,0 +1,8 @@
+/**
+* @author Madeline#3336
+* @description Changes the unread bar to custom text. Customize to your liking
+* @name Unread Bar Change
+*/
+.text-xs-semibold_a3a2b4.barText__1a44f {font-size: 0px;}
+.text-xs-semibold_a3a2b4.barText__1a44f:before {font-size:12px; content: /*CHANGE TO WHATEVER*/ "LOOK AT THIS!"; position: absolute; top: 4px;}
+.bar__004d9 {width: 100px;} /* adjust if needed for bar width, incase the text goes off the bar*/

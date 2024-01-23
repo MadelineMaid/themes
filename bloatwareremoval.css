@@ -1,0 +1,24 @@
+/**
+* @author Madeline#3336
+* @name Bloatware Removal
+* @description Removes useless discord features. YOU WILL NEED THEMEATTRIBUTES PLUGIN!
+*/
+.avatarDecoration__14b3c {display: none;}
+.avatarDecoration_ae35e3 {display: none;}
+.profileEffects_fd33f6 {display: none;}
+.profilePanel__12596 {display: none;}
+[aria-label="Show User Profile"] {display: none;}
+[aria-label="Hide User Profile"] {display: none;}
+.welcomeCTA__927ef {display: none;}
+.roleIcon__59ca1.roleIcon_d491aa.clickable__08c77 {display: none !important;}
+.recentsIcon__3c4cf {display: none}
+[aria-label="Help"] {display: none;}
+[aria-label="Deafen"] {display: none !important;}
+.selectionGroup__36139 {display: none;}
+.presets__14d08, .header_a6f6dd, .themeTitle__23d07, .divider_a2339a.marginTop20_d88ee7 {display: none;}
+[aria-label="Clips"] {display: none;}
+[aria-label="Family Center"] {display: none;}
+[aria-label="Merch"] {display: none;}
+[data-tab-id="Hypesquad Online"] {display: none !important;}
+[data-tab-id="BLOCKED"] {display: none !important;}
+[data-list-item-id="private-channels-uid_18___nitro"] {display: none !important;}

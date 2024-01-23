@@ -1,0 +1,9 @@
+/**
+* @author Madeline#3336
+* @description Changes the Sepia theme to be a trans logo :3
+* @name Trans Theme
+*/
+:root {
+    --bg-gradient-sepia-1: #73cff4;
+    --bg-gradient-sepia-2: #73cff4, #73cff4, #73cff4, #eeafc0, #fff, #eeafc0, #73cff4;
+}

@@ -1,0 +1,12 @@
+/**
+* @author Madeline#3336
+* @name EmojiPicker Enhancements
+* @description Styles up some of the emoji picker, adding animations. Examples: https://files.catbox.moe/2l5219.mp4 https://files.catbox.moe/es8l8c.mp4
+*/
+.emoji.primaryEmoji__1194c.jumboable {animation: cool 1.5s infinite ease-in-out;}
+.emojiItem_b15dee.emojiItemMedium_a97ee4:hover {animation: cool 1.5s infinite ease-in-out;}
+@keyframes cool {
+    0% {scale: 1;}
+    50% {scale: 1.2;}
+    100% {scale: 1;}
+}

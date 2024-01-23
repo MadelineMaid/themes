@@ -1,0 +1,25 @@
+/**
+* @name Twitter Verified
+* @author Madeline#3336
+* @description Everybody in chat is now verified!
+*/
+.username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1::after {
+  content:'';
+  background: url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg);
+  padding-left:20px;
+  margin-left:4px;
+  background-repeat: no-repeat;
+  }
+  [id^="message-username-"]:has(.vc-platform-indicator [fill="#23a55a"]) .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1:after{
+    filter: invert(45%) saturate(900%) hue-rotate(300deg);
+  }
+  [id^="message-username-"]:has(.vc-platform-indicator [fill="#f0b232"]) .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1:after{
+    filter: invert(64%) sepia(85%) saturate(412%) hue-rotate(355deg) brightness(125%) contrast(88%);
+  }
+  [id^="message-username-"]:has(.vc-platform-indicator [fill="#f23f43"]) .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1:after{
+    filter: invert(57%) sepia(5%) saturate(561%) hue-rotate(327deg) contrast(190%);
+  }
+  [id^="message-username-"]:has(.vc-platform-indicator [fill="#80848e"]) .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1:after{
+    filter: saturate(0)
+  }
+    /*CREDITS TO 'callme_h' ON DISCORD FOR MAKING IT STATUS COLOR CHANGING!*/

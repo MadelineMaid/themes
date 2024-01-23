@@ -1,0 +1,31 @@
+/**
+* @author Madeline#3336
+* @description Makes the mention in chat look nicer.
+* @name Fancy Mention
+*/
+:root {
+    --mention-color-1: #bf861f;
+    --mention-color-2: #dbdee1;
+    --animation-color-start-end: rgba(240, 177, 50, 0.255);
+    --animation-color-middle: rgba(240, 177, 50, 0.500);
+}
+.mention {
+    border: 1px;
+    border-style: solid;
+    line-height: 1.5;
+    animation: pulsate 2.5s infinite linear;
+    background: transparent;
+    color: var(--mention-color-2);
+}
+.mention:hover {
+    animation: none;
+    background: transparent;
+    color: var(--mention-color-1);
+}
+@keyframes pulsate {
+    0% {border-color: transparent}
+    25% {border-color: var(--animation-color-start-end);}
+    50% {border-color: var(--animation-color-middle);}
+    75% {border-color: var(--animation-color-start-end);}
+    100% {border-color: transparent}
+}
