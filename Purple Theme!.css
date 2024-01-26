@@ -543,6 +543,10 @@
         transform: rotateZ(0deg);
         scale:1;
     }
+    .vc-uvs-button:hover {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
