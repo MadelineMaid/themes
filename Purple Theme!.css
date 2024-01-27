@@ -547,6 +547,10 @@
         transform: rotateZ(0deg);
         scale: 1;
     }
+    .notice_a687ab .button_d41223 {
+        scale:1;
+        transform: rotateZ(0deg);
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
