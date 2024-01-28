@@ -302,27 +302,47 @@
     .vc-rdb-review:hover {
         right: 0px !important;
     }
-    [href^="/channels"], .typeVoice_f4ba92, .member_aa4760 {
+    [href^="/channels"], .typeVoice_f4ba92 {
         transition: ease 0.2s;
-    }
-      [href^="/channels"]:hover {
+ }
+ [href^="/channels"]:hover {
         margin-left: 5px;
-    }
-      .iconItem__8e3b8:has(.actionIcon_d679b5) {
+ }
+ .iconItem__8e3b8:has(.actionIcon_d679b5) {
         display: none !important;
-    }
-      .typeVoice_f4ba92:hover {
+ }
+ .typeVoice_f4ba92:hover {
         margin-left: 15px;
+ }
+ .side_b4b3f6 .item__48dda {
+     transition: ease 0.2s;
+ }
+ .side_b4b3f6 .item__48dda:hover {
+     margin-left: 5px;
+ }
+ [aria-label="Members"] .member_aa4760 {
+     transition: ease 0.2s;
+ }
+ [aria-label="Members"] .member_aa4760:hover {
+     margin-left: 15px;
+ }
+    [aria-label^="Listen along with"]:hover {
+        transform: rotateZ(0deg);
+        scale: 1;
     }
-      .member_aa4760:hover {
-        margin-left: 12px;
+    .button__9491f.buttonSize_ee7672 {
+        transform: rotateZ(0deg);
+        scale:1;
     }
-      .item__48dda.themed_b957e8 {
-        transition: ease 0.2s;
+    .button__671cf.button_afdfd9.lookOutlined__46d54.colorWhite__43488.grow__4c8a4 {
+        transform: rotateZ(0deg);
+        scale:1;
     }
-      .item__48dda.themed_b957e8:hover {
-        margin-left: 5px;
-    } 
-      .tabBarItem_b56b35:hover {
-        margin-left: 0px !important;
+    .vc-uvs-button:hover {
+        transform: rotateZ(0deg);
+        scale: 1;
+    }
+    .notice_a687ab .button_d41223 {
+        scale:1;
+        transform: rotateZ(0deg);
     }

@@ -521,16 +521,28 @@
     }
     [href^="/channels"], .typeVoice_f4ba92 {
         transition: ease 0.2s;
-    }
-    [href^="/channels"]:hover {
+ }
+ [href^="/channels"]:hover {
         margin-left: 5px;
-    }
-    .iconItem__8e3b8:has(.actionIcon_d679b5) {
+ }
+ .iconItem__8e3b8:has(.actionIcon_d679b5) {
         display: none !important;
-    }
-    .typeVoice_f4ba92:hover {
+ }
+ .typeVoice_f4ba92:hover {
         margin-left: 15px;
-    }
+ }
+ .side_b4b3f6 .item__48dda {
+     transition: ease 0.2s;
+ }
+ .side_b4b3f6 .item__48dda:hover {
+     margin-left: 5px;
+ }
+ [aria-label="Members"] .member_aa4760 {
+     transition: ease 0.2s;
+ }
+ [aria-label="Members"] .member_aa4760:hover {
+     margin-left: 15px;
+ }
     [aria-label^="Listen along with"]:hover {
         transform: rotateZ(0deg);
         scale: 1;
