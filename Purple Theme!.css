@@ -575,6 +575,10 @@
         scale:1;
         transform: rotateZ(0deg);
     }
+    .vc-rdb-button-grid .button_afdfd9 {
+        scale: 1;
+        transform: rotateZ(0deg) !important;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
