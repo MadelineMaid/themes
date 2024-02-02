@@ -3,7 +3,8 @@
 * @author Madeline#3336
 * @description Makes discord a nice and cool purple. Enjoy!
 */
-
+@import url('https://fonts.cdnfonts.com/css/pushpins');
+@import url('https://fonts.cdnfonts.com/css/hemi-head');
 /* This changes "X" logo to the famous twitter we all know and love. Remove if you want. */
 [aria-label="X"] {content: url(https://discord.com/assets/57a3fe2c0e62e98937fd.svg);}
 [src="/assets/f47485602365c946fa52.svg"] {content: url(https://discord.com/assets/57a3fe2c0e62e98937fd.svg);}
@@ -57,6 +58,13 @@
     --mention-color-1: var(--interactive-active) !important;
     --animation-color-start-end: rgba(217, 185, 247, 0.255) !important;
     --animation-color-middle: rgba(217, 185, 247, 0.500) !important;
+}
+
+:root {
+    --font-primary: pushpins;
+    --font-display: pushpins;
+    --font-headline: pushpins;
+    --font-code: hemi head;
 }
 
 .vc-addon-card:hover {
