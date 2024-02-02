@@ -5,5 +5,5 @@
 */
 :root {
     --bg-gradient-sepia-1: #73cff4;
-    --bg-gradient-sepia-2: #73cff4, #73cff4, #73cff4, #eeafc0, #fff, #eeafc0, #73cff4;
+    --bg-gradient-sepia-2: #73cff4, #73cff4, #73cff4, #eeafc0, #eeafc0, #fff, #fff, #eeafc0, #eeafc0, #73cff4;
 }
