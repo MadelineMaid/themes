@@ -581,6 +581,10 @@
         scale: 1;
         transform: rotateZ(0deg) !important;
     }
+    .returnButton__32059:hover {
+        scale: 1;
+        transform: rotateZ(0deg);
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__883d4 {
