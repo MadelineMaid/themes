@@ -3,16 +3,6 @@
 * @author Madeline
 * @description Makes discord a nice and cool purple. Enjoy!
 */
-/* Remove below if you don't want custom fonts. */
-@import url('https://fonts.cdnfonts.com/css/maria-2');
-@import url('https://fonts.cdnfonts.com/css/hemi-head');
-:root {
-    --font-primary: maria;
-    --font-display: maria;
-    --font-headline: maria;
-    --font-code: hemi head;
-}
-/* End of custom font code. */
 /* This changes "X" logo to the famous twitter we all know and love. Remove if you want. */
 [aria-label="X"] {content: url(https://discord.com/assets/57a3fe2c0e62e98937fd.svg);}
 [src="/assets/f47485602365c946fa52.svg"] {content: url(https://discord.com/assets/57a3fe2c0e62e98937fd.svg);}
