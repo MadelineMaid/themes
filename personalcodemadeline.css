@@ -23,3 +23,15 @@
     --twitter-verified: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/15px-Twitter_Verified_Badge.svg.png);
 }
 .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1:after {content: var(--twitter-verified);filter:hue-rotate(70deg);display: flexbox; padding-left: 5px;}
+.vc-spotify-button-row, .container_ca50b9, [aria-label="User area"] {
+    opacity: 0%;
+    transition: ease 0.5s;
+    gap: 6.5rem !important;
+}
+.vc-spotify-button-row:hover, .container_ca50b9:hover, [aria-label="User area"]:hover {
+    opacity: 100%;
+    gap: 0px !important;
+}
+.mentioned__58017:hover {
+    background-color: hsl(var(--yellow-300-hsl)/0.08) !important;
+}
