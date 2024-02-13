@@ -793,3 +793,6 @@
 .body__91006 {
     background-color: var(--background-secondary);
 }
+.errorPage_da3c8d .image_dabcb8 {
+    filter: sepia(100%) hue-rotate(-140deg);
+}
