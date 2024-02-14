@@ -636,10 +636,10 @@
     fill: rgb(202, 146, 255);
 }
 .emptyIconFriends__8e334 {
-    filter: hue-rotate(-90deg) opacity(0.5);
+    filter: sepia(100%) hue-rotate(-140deg)
 }
 .emptyIconGuilds__72704 {
-    filter: hue-rotate(-90deg) opacity(0.5);
+    filter: sepia(100%) hue-rotate(-140deg)
 }
 .header__60bef {background-color: rgb(49, 39, 71) !important;}
 .container__10dc7 {background-color: rgb(49, 39, 71) !important;}
