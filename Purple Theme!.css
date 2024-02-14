@@ -800,3 +800,6 @@
 [fill="#2dc771"] {
     fill: var(--interactive-normal);
 }
+.page__0b66e {
+    background-color: var(--background-secondary) !important
+}
