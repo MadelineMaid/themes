@@ -56,6 +56,7 @@
     --mention-color-1: var(--interactive-active) !important;
     --animation-color-start-end: rgba(217, 185, 247, 0.255) !important;
     --animation-color-middle: rgba(217, 185, 247, 0.500) !important;
+    --text-positive: var(--interactive-normal)
 }
 
 
@@ -795,4 +796,7 @@
 }
 .errorPage_da3c8d .image_dabcb8 {
     filter: sepia(100%) hue-rotate(-140deg);
+}
+[fill="#2dc771"] {
+    fill: var(--interactive-normal);
 }
