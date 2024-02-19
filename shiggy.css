@@ -3,12 +3,11 @@
 * @description get shiggy with it
 */
 
-img {content: var(--shiggy) !important;}
-button {content: var(--shiggy)  !important;}
-video {content: var(--shiggy) !important;}
+img {content: var(--shiggy);}
+button {content: var(--shiggy);}
+video {content: var(--shiggy);}
 
 
 :root {
     --shiggy: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless) !important;
 }
-
