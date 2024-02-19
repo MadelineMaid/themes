@@ -3,12 +3,12 @@
 * @description get shiggy with it
 */
 
-img {content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless) !important;}
-button {content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless) !important;}
-video {content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless);}
+img {content: var(--shiggy) !important;}
+button {content: var(--shiggy)  !important;}
+video {content: var(--shiggy) !important;}
 
 
-.theme-dark {
-    --channel-icon:
+:root {
+    --shiggy: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=128&quality=lossless) !important;
 }
 
