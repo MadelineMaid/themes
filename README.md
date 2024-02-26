@@ -1,1 +1,1 @@
-these are just a bunch of vencord themes i've made, try them out or dont. <br>most will probably require themeattributes to be enabled
+Hey, these are all the custom themes/CSS snippets I've made for the cutest discord client mod, Vencord! <p> Make sure to enable "ThemeAttributes" so they work properly!
