@@ -1,13 +1,12 @@
 /**
 * @author madelinemaid
 * @name Square Avatars
-* @description Makes avatars square. This WILL remove decorations to fit better.
+* @description Makes avatars square.
 */
 .avatar__08316 {border-radius: 10%;}
 .wrapper_edb6e0 img {border-radius: 10% !important;position: absolute;}
-.bannerSVGWrapper__3e7b0:has([id*="uid_"]) circle{r:0rem;}
-.avatarDecoration_ae35e3 {visibility: hidden;}
+.avatarDecoration_ae35e3 {border-radius: 0%;}
 .svg__7900e.avatarHint__8e5b9 {visibility: hidden;}
-.svg__7900e.avatarDecorationHint__03e0b {visibility: hidden;}
+.svg__7900e.avatarDecorationHint__03e0b {border-radius: 0%;}
 .replyAvatar_cea07c.clickable_d866f1 {border-radius: 15%}
-.avatarDecoration__14b3c {visibility: hidden}
+.avatarDecoration__14b3c {border-radius: 0%}
