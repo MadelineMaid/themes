@@ -10,3 +10,12 @@
 .svg__7900e.avatarDecorationHint__03e0b {border-radius: 0%;}
 .replyAvatar_cea07c.clickable_d866f1 {border-radius: 15%}
 .avatarDecoration__14b3c {border-radius: 0%}
+div [role="img"] > svg > foreignObject {
+    mask: none !important;
+    -webkit-mask: none !important;
+}
+div .wrapper_edb6e0 svg rect {
+    mask: none !important;
+    -webkit-mask: none !important;
+    x:33
+}
