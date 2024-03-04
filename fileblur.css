@@ -8,41 +8,41 @@
 }
 .imageWrapper_fd6587.imageZoom_ceab9d.clickable_dc48ac.lazyImgContainer__68fa8 img {
     filter: blur(var(--file-blur));
-    transition: ease 0.2s;}
+    transition: ease 0.45s;}
 .imageWrapper_fd6587.imageZoom_ceab9d.clickable_dc48ac.lazyImgContainer__68fa8:hover img {
     filter: blur(0px);
 }
 .imageWrapper_fd6587:has(.cover__0b3cf.active_f0dd2f) {
     filter: blur(var(--file-blur));
-    transition: ease 0.2s;
+    transition: ease 0.45s;
     }
 .imageWrapper_fd6587:has(.cover__0b3cf.active_f0dd2f):hover {
     filter: blur(0px);
     }
 .imageWrapper_fd6587 > .clickableWrapper__64072 {
     filter: blur(var(--file-blur));
-    transition: filter ease 0.2s;
+    transition: filter ease 0.45s;
 }
 .imageWrapper_fd6587:hover > .clickableWrapper__64072 {
     filter: blur(0px);
 }
 .imageWrapper_fd6587:has([aria-label="Image"]) {
     filter: blur(var(--file-blur));
-    transition: ease 0.2s;
+    transition: ease 0.45s;
 }
 .imageWrapper_fd6587:has([aria-label="Image"]):hover {
     filter: blur(0px);
 }
 .embedWrapper_c143d9.embedFull__8dc21 img {
     filter: blur(var(--file-blur));
-    transition: 0.2s ease;
+    transition: 0.45s ease;
 }
 .embedWrapper_c143d9.embedFull__8dc21:hover img {
     filter: blur(0px);
 }
 [data-type="sticker"] {
     filter: blur(var(--file-blur));
-    transition: 0.2s ease
+    transition: 0.45s ease
 }
 [data-type="sticker"]:hover {
     filter: blur(0px);
