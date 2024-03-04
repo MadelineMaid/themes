@@ -19,3 +19,13 @@ div .wrapper_edb6e0 svg rect {
     -webkit-mask: none !important;
     x:33
 }
+.avatarHoverTarget__3a360 .wrapper_edb6e0 svg rect {
+    mask-image: url(#svg-mask-status-online) !important;
+    x:75;
+    y:73;
+}
+.avatarHoverTarget__3a360 .wrapper_edb6e0 svg circle {
+    cx:83;
+    r:11;
+    cy:81
+}
