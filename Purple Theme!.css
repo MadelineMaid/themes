@@ -599,6 +599,10 @@
         transform: none !important;
         scale: 1 !important;
     }
+    .followButton_eb1ca8:hover {
+        transform: none;
+        scale: 1;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__7d5ad {
