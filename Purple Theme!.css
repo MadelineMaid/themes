@@ -603,6 +603,10 @@
         transform: none;
         scale: 1;
     }
+    [class^='purchaseButton']:hover, [class^="giftButton"]:hover {
+        transform: none;
+        scale: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     .description__7d5ad {
