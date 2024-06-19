@@ -17,7 +17,7 @@
     background: rgb(95, 218, 95);
     top: -3px !important;
 }
-.winButtonClose__73489
+[class^='winButtonClose']
 {
     color: rgb(230, 73, 73);
     clip-path: circle(7px);
@@ -36,11 +36,11 @@
     clip-path: circle(7px);
     background: lime;
 }
-.winButtonClose__73489:hover
+[class^='winButtonClose']:hover
 {
     color: red;
     clip-path: circle(7px);
     background: red;
 }
-.wordmarkWindows__05c46 {left: 1842px;}
-.winButton__88672 {right: 1856.5px; width: 18px; top: -1.5px}
+[class^='wordmark'] {left: 1842px;}
+[class*='winButton'] {right: 1856.5px; width: 18px; top: -1.5px}
