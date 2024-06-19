@@ -1,5 +1,5 @@
 /**
-* @name Purple
+* @name Purple Theme Library Version
 * @author Madeline
 * @description Makes discord a nice and cool purple. Enjoy!
 * @version 1.0
@@ -78,7 +78,7 @@
     background-color: rgb(128, 81, 172) !important;
 }
 
-.ready__61f2f {
+[class^='ready'] {
         filter: invert(35%) sepia(82%) saturate(626%) hue-rotate(232deg) brightness(84%) contrast(78%);
 }
 
@@ -609,8 +609,53 @@
         transform: none;
         scale: inherit;
     }
+    [class^='standardSidebarView'] button:hover {
+        transform: inherit;
+        scale: inherit;
+    }
+    [class^='userProfileModalOuter'] button:hover {
+        transform: inherit;
+        scale: inherit;
+    }
+    [aria-label='Servers'] [class^='listItem'] {
+        transition: ease .3s;
+    }
+    [aria-label='Servers'] [class^='listItem']:hover {
+        transform: rotateZ(-10deg);
+        scale: 1.2;
+    }
+    [class^='sidebar'] [class^='container'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
+    [class^='directoryContainer'] button:hover {
+        transform: inherit;
+        scale: inherit;
+    }
+    [class^='chat'] [class^='header'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
+    [class^='browser'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
+    [class^='messagesWrapper'] button:hover {
+        transform: inherit;
+        scale: inherit;
+    }
+    [class^='popout'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
+    .content_a7d72e .chat_a7d72e {
+        background-color: var(--background-primary);
+    }
+    [class^='profileCard'] {
+        background-color: var(--background-secondary);
+    }
     .description__7d5ad {
         background: rgb(50, 36, 65);
     }
@@ -618,7 +663,12 @@
     .invalidPoop__9bdd8.invalidPoopHorizontal_bb9f32 {
         background-color: rgba(50, 36, 65, 0.74);
     }
-    
+    .header_f1fd9c, .container_f1fd9c {
+        background-color: var(--background-primary) !important;
+    }
+    [class^='tabBar']:after {
+        fill: red !important;
+    }
 .contentWrapper_e0bb2c {
     --background-accent: rgb(35, 28, 51);
 }
