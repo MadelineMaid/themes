@@ -655,7 +655,7 @@
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     [class='vc-error-card'] h2 {
-        color: white !important;
+        color: var(--text-normal);
     }
     .content_a7d72e .chat_a7d72e {
         background-color: var(--background-primary);
