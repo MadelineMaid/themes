@@ -656,6 +656,10 @@
         scale: inherit;
         transform: inherit;
     }
+    [class^='sidebarContent'] button:hover {
+        transform: inherit;
+        scale: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     [class='vc-error-card'] h2 {
