@@ -616,13 +616,6 @@
         transform: inherit;
         scale: inherit;
     }
-    [aria-label='Servers'] [class^='listItem'] {
-        transition: ease .3s;
-    }
-    [aria-label='Servers'] [class^='listItem']:hover {
-        transform: rotateZ(-10deg);
-        scale: 1.2;
-    }
     [class^='sidebar'] [class^='container'] button:hover {
         scale: inherit;
         transform: inherit;

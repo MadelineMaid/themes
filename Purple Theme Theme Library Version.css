@@ -2,7 +2,7 @@
 * @name Purple Theme Library Version
 * @author Madeline
 * @description Makes discord a nice and cool purple. Enjoy!
-* @version 1.3.3
+* @version 1.3.4
 * @tags Purple, Animated
 */
 /* This changes "X" logo to the famous twitter we all know and love. Remove if you want. */
@@ -617,13 +617,6 @@
     [class^='userProfileModalOuter'] button:hover {
         transform: inherit;
         scale: inherit;
-    }
-    [aria-label='Servers'] [class^='listItem'] {
-        transition: ease .3s;
-    }
-    [aria-label='Servers'] [class^='listItem']:hover {
-        transform: rotateZ(-10deg);
-        scale: 1.2;
     }
     [class^='sidebar'] [class^='container'] button:hover {
         scale: inherit;
