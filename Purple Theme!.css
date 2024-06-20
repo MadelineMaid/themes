@@ -925,3 +925,12 @@
 [class^='homeContainer'] {
     background-color: var(--background-secondary)
 }
+[class^='chatContent'] [class^='form'] button:hover {
+    transform: inherit;
+    scale: inherit;
+    background: var(--text-link)
+}
+
+[class^='chatContent'] [class^='form'] button {
+    background: var(--text-muted)
+}
