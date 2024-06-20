@@ -51,7 +51,6 @@
     --green-360: rgb(202, 146, 255);
     --primary-400: rgb(202, 146, 255);
     --yellow-300: rebeccapurple;
-    --brand-500: var(--background-secondary-alt);
     --info-warning-background: rgb(59, 32, 87);
     --button-outline-danger-border: var(--interactive-muted);
     --button-outline-danger-background-hover: var(--interactive-muted);
