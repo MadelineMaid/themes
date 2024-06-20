@@ -659,8 +659,21 @@
         transform: inherit;
         scale: inherit;
     }
+    [class^='applicationStore'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
+    [class^='applicationStore'] h2 {
+        color: var(--text-normal) !important;
+    }
+    [class^='text-lg/normal'] {
+        color: var(--text-normal) !important;
+    }
+    [class^='applicationStore'] [class^='display-lg'] {
+        -webkit-text-stroke: rgb(112, 105, 117) 1px;
+    }
     [class='vc-error-card'] h2 {
         color: var(--text-normal);
     }
