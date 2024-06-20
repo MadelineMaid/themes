@@ -2,7 +2,7 @@
 * @name Purple Theme Library Version
 * @author Madeline
 * @description Makes discord a nice and cool purple. Enjoy!
-* @version 1.3.2
+* @version 1.3.3
 * @tags Purple, Animated
 */
 /* This changes "X" logo to the famous twitter we all know and love. Remove if you want. */
@@ -51,6 +51,7 @@
     --green-360: rgb(202, 146, 255);
     --primary-400: rgb(202, 146, 255);
     --yellow-300: rebeccapurple;
+    --brand-500: var(--background-secondary-alt);
     --info-warning-background: rgb(59, 32, 87);
     --button-outline-danger-border: var(--interactive-muted);
     --button-outline-danger-background-hover: var(--interactive-muted);
@@ -665,6 +666,10 @@
         scale: inherit;
         transform: inherit;
     }
+    [class^='shc-lock'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     [class^='applicationStore'] h2 {
@@ -919,4 +924,7 @@
 }
 [d="M13 432L590 48"] {
     stroke: #c74444;
+}
+[class^='homeContainer'] {
+    background-color: var(--background-secondary)
 }
