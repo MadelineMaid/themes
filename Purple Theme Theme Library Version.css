@@ -652,6 +652,10 @@
         scale: inherit;
         transform: inherit;
     }
+    [class*='userPopout'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
     [class='vc-error-card'] h2 {
