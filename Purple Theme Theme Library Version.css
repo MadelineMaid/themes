@@ -18,6 +18,7 @@
     --interactive-normal: #d7bdff;
     --mention-foreground: rgb(161, 103, 214);
     --mention-background: rgb(84, 54, 112);
+    --background-accent: var(--background-secondary-alt);
     --background-mentioned-hover: rgb(61, 39, 82);
     --background-mentioned: rgb(63, 40, 85);
     --text-muted: rgb(128, 81, 172);
