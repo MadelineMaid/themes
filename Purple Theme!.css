@@ -16,6 +16,7 @@
     --interactive-normal: #d7bdff;
     --mention-foreground: rgb(161, 103, 214);
     --mention-background: rgb(84, 54, 112);
+    --background-accent: var(--background-secondary-alt);
     --background-mentioned-hover: rgb(61, 39, 82);
     --background-mentioned: rgb(63, 40, 85);
     --text-muted: rgb(128, 81, 172);
@@ -646,8 +647,23 @@
         scale: inherit;
         transform: inherit;
     }
+    [class^='layer'] [class^='focusLock'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
+    [class*='userPopout'] button:hover {
+        scale: inherit;
+        transform: inherit;
+    }
+    [class^='sidebarContent'] button:hover {
+        transform: inherit;
+        scale: inherit;
+    }
     /* END OF ANIMATION CODE, DON'T DELETE ANYTHING BELOW UNLESS TOLD*/
     
+    [class='vc-error-card'] h2 {
+        color: var(--text-normal);
+    }
     .content_a7d72e .chat_a7d72e {
         background-color: var(--background-primary);
     }
