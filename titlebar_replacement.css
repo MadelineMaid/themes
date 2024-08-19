@@ -1,7 +1,7 @@
 /**
 * @author madelinemaid
 * @name Titlebar Name Replacement
-* @description Replaces Discord to Vencord. Use https://www.fontbolt.com/font/discord-logo-font/ with the color rgb(148, 155, 164) to make your own.
+* @description ONLY WORKS ON 1920X1080 BCUZ IM STUPID; Replaces Discord to Vencord. Use https://www.fontbolt.com/font/discord-logo-font/ with the color rgb(148, 155, 164) to make your own.
 */ 
 [class^='wordmark'] svg {
     visibility: hidden;
