@@ -3,10 +3,10 @@
 * @name Titlebar Name Replacement
 * @description Replaces Discord to Vencord. Use https://www.fontbolt.com/font/discord-logo-font/ with the color rgb(148, 155, 164) to make your own.
 */ 
-.wordmark__0d178 svg {
+[class^='wordmark'] svg {
     visibility: hidden;
 }
-.wordmark__0d178:after {
+[class^='wordmark']:after {
     content: url(https://files.catbox.moe/f2wdlj.png);
     position: absolute;
     scale: 0.1;
