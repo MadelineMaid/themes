@@ -3,17 +3,82 @@
 * @description Hide your embarrasing tabs! Unblurs on hover
 * @name Content Blur
 */
-[aria-label="Servers"]{filter: blur(6px); transition: ease-in-out 0.3s;}
-[aria-label="Servers"]:hover {filter: blur(0px);}
-[aria-label="Channels"] {filter: blur(6px); transition: ease-in 0.3s;}
-[aria-label="Channels"]:hover{filter: blur(0px);}
-[aria-label="Members"] {filter: blur(6px);transition: ease-in-out 0.3s;}
-[aria-label="Members"]:hover {filter: blur(0px);}
-.messagesWrapper_ea2b0b {filter: blur(6px);transition: ease-in-out 0.3s;}
-.messagesWrapper_ea2b0b:hover {filter: blur(0px);}
-.container__7c79d.clickable__2d589.hasBanner_e78601.bannerVisible__191f6 {filter: blur(6px); transition: ease-in-out 0.3s;}
-.container__7c79d.clickable__2d589.hasBanner_e78601.bannerVisible__191f6:hover {filter: blur(0px);}
-.title__9e2b0 {filter: blur(4px); transition: ease-in-out 0.3s;}
-.title__9e2b0:hover {filter: blur(0px);}
-.topic__16ae3.expandable_ddf73d {filter: blur(4px); transition: ease-in-out 0.3s;}
-.topic__16ae3.expandable_ddf73d:hover {filter: blur(0px);}
+[aria-label="Servers"] {
+    filter: blur(6px); 
+    transition: ease-in-out 0.3s;
+}
+
+[aria-label="Servers"]:hover {
+    filter: blur(0px);
+}
+
+[aria-label="Channels"] {
+    filter: blur(6px); 
+    transition: ease-in 0.3s;
+}
+
+[aria-label="Channels"]:hover {
+    filter: blur(0px);
+}
+
+[aria-label='Private channels'] {
+    filter: blur(6px);
+    transition: ease-in 0.3s;
+}
+
+[aria-label='Private channels']:hover {
+    filter: blur(0px);
+}
+
+[aria-label="Members"] {
+    filter: blur(6px);
+    transition: ease-in-out 0.3s;
+}
+
+[aria-label="Members"]:hover {
+    filter: blur(0px);
+}
+
+[aria-label='Friends'] {
+    filter: blur(6px);
+    transition: ease-in .3s;
+}
+
+[aria-label='Friends']:hover {
+    filter: blur(0px);
+}
+
+[class^='messagesWrapper'] {
+    filter: blur(6px);
+    transition: ease-in-out 0.3s;
+}
+[class^='messagesWrapper']:hover {
+    filter: blur(0px);
+}
+
+[class^='topic__']:has([class^='expandable_']) {
+    filter: blur(4px); 
+    transition: ease-in-out 0.3s;
+}
+
+[class^='topic__']:has([class^='expandable_']):hover {
+    filter: blur(0px);
+}
+
+[aria-label='Channel header'] [class^='titleWrapper'] {
+    filter: blur(6px);
+    transition: ease-in .3s;
+}
+
+[aria-label='Channel header'] [class^='titleWrapper']:hover {
+    filter: blur(0px);
+}
+
+[class^='sidebar_'] [class^='container'] [class^='container'] [class^='header'] {
+    filter: blur(6px);
+    transition: ease-in .3s;
+}
+
+[class^='sidebar_'] [class^='container'] [class^='container'] [class^='header']:hover {
+    filter: blur(0px)
+}
