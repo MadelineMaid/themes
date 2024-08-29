@@ -1,8 +1,0 @@
-/**
-* @author madelinemaid
-* @name Shop Wumpus Fix
-* @description Makes the shop wumpus actually change your cursor to select
-*/
-.hiddenWumpus__3cb90 {
-    cursor: pointer !important;
-}
