@@ -12,8 +12,16 @@
 /* people i hate */
 [data-author-id="1146238152693002260"] {display: none;}
 /* people i love */
-[data-author-id="975944497328443423"] .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1 {font-size: 0;}
-[data-author-id="975944497328443423"] .username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1::before {font-size: 1rem;content: "system protector"}
+
+[data-author-id="975944497328443423"] [class*='username_'] {
+    font-size: 0;
+}
+
+[data-author-id="975944497328443423"] [class*='username_']::before {
+    font-size: 1rem;
+    content: "system protector";
+}
+
 /* remove embed links to blend in more in chat */
 [href*="catbox"], [href*="tenor"] {
     display: none;
