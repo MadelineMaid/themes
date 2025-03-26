@@ -9,18 +9,22 @@
     --animation-color-start-end: rgba(240, 177, 50, 0.255);
     --animation-color-middle: rgba(240, 177, 50, 0.500);
 }
-.mention {
+[class*='mentioned__'] {
     border: 1px;
     border-style: solid;
+    border-radius: 3px;
     line-height: 1.5;
     animation: pulsate 2.5s infinite linear;
     background: transparent;
-    color: var(--mention-color-2);
+    color: transparent;
 }
-.mention:hover {
+[class*='mentioned__']:hover {
     animation: none;
     background: transparent;
     color: var(--mention-color-1);
+}
+[class*='mentioned__']:before {
+    background: transparent;
 }
 @keyframes pulsate {
     0% {border-color: transparent}
