@@ -1,0 +1,17 @@
+/* nameplate remove by madeline (charmfvlz) */
+
+[class*='nameplated__'] [class^='container_'] [class^='img__'] {
+    display: none;
+}
+
+[class*='nameplated__'] [class^='container_'] {
+    background: none !important;
+}
+
+[class*='interactive_'] [class^='container'] {
+    background: none !important;
+}
+
+[class*='interactive_'] [class^='container'] [class^=videoContainer__] {
+    display: none;
+}
